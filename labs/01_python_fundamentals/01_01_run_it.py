@@ -14,5 +14,3 @@
 	- Calculate how many seconds are in a year.
 
 '''
-
-print("hello world!")
